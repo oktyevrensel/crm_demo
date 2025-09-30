@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="pillGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2E7D32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- İlaç tableti gövdesi -->
+  <ellipse cx="16" cy="16" rx="12" ry="6" fill="url(#pillGradient)" stroke="#1B5E20" stroke-width="1"/>
+  
+  <!-- İlaç tableti ortasındaki çizgi -->
+  <line x1="4" y1="16" x2="28" y2="16" stroke="#1B5E20" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- İlaç tableti üst kısmı -->
+  <ellipse cx="16" cy="16" rx="12" ry="6" fill="none" stroke="#1B5E20" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Parlaklık efekti -->
+  <ellipse cx="12" cy="12" rx="3" ry="2" fill="#81C784" opacity="0.6"/>
+</svg>
