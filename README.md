@@ -161,8 +161,6 @@ Frontend http://localhost:3001 adresinde çalışacak.
 - Sadece iş görüşmeleri için tasarlanmıştır
 - Production ortamında kullanılmamalıdır
 
-## 📞 İletişim
-
 Bu demo uygulaması iş görüşmelerinde kullanılmak üzere hazırlanmıştır. Herhangi bir sorunuz olursa lütfen iletişime geçin.
 
 ---
